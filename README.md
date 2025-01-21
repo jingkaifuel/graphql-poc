@@ -1,6 +1,6 @@
 # Sample GraphQL server
 
-This server includes Authorisation and Authentication via JWT
+This server includes Authorisation and Authentication via JWT and uses MongoDB as the data source
 
 <!-- GETTING STARTED -->
 
