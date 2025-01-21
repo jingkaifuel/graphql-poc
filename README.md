@@ -21,7 +21,7 @@ To make sure you can install the correct packages and server the server as inten
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/jingkaifuel/graphql-poc
    ```
 2. Install packages
    ```sh
